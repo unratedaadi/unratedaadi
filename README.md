@@ -8,9 +8,9 @@
 
 ## 🚀 About Me
 
-- 🤖 **Focus Area:** Specializing in Web Development, Data Engineering, Machine Learning.
-- 💡 **Passion:** Building production-grade Web Pages, Full Stack Projects.
-- ⚡ **Fun Fact:** Building the future at the intersection of bits, pipelines, and brains. 🌐 Web Dev displays it, ⚙️ Data Engineering scales it, and 🧠 Machine Learning makes it smart..
+- 🤖 **Focus Area:** Specializing in Web Development, Data Science.
+- 💡 **Passion:** Building production-grade Web Pages, Data Science.
+- ⚡ **Fun Fact:** Building the future at the intersection of bits, pipelines, and brains. 🌐 Web Dev displays it, ⚙️ Data Science scales it, and 🧠 Machine Learning makes it smart..
 
 ## 🛠️ Tech Arsenal
 
